@@ -4,3 +4,6 @@ Here is the link to the course - https://www.coursera.org/professional-certifica
 This repository written for reference and self-documentation purpose. 
 
 ![Google Data Analytics Certificate_Shameel Lamba](https://user-images.githubusercontent.com/92649182/156826738-f6dafa56-1a92-4150-bab3-78a52930dc14.png)
+
+
+![Grades](https://user-images.githubusercontent.com/92649182/156827461-e1c77ac3-fc1f-45cb-8bdb-12aa5248fa15.png)
